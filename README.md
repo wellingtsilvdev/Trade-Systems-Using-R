@@ -1,2 +1,2 @@
 # Trade-Systems-Using-R
-Here i will update trade system codes created in R
+Here I will upload trade system codes created in R
